@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    width: 48%;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+=======
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    width: 48%;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+>>>>>>> f00eb0428f7463d65ab5121b30a55e62b0661e6c
